@@ -44,33 +44,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/karfuanyogich'
-global.sgh = 'https://github.com/YogzFX'
+global.sig = 'https://www.instagram.com/rizkyrajinsekolah6'
+global.sgh = 'https://github.com/Aracomell'
 global.sgc = 'https://chat.whatsapp.com/KNkpoT4oX5yFA18GlPttgl'
 global.sdc = " "
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '089510598381'
-global.povo = '089510598381'
-global.pgopay = '089510598381'
-global.ppulsa = '089510598381'
-global.ppulsa2 = '089510598381'
+global.pdana = '085942139006'
+global.povo = '089504231588'
+global.pgopay = '089504231588'
+global.ppulsa = '089504231588'
+global.ppulsa2 = '085942139006'
 global.psaweria = 'https://saweria.co/yogzkyz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281235741930'
-global.nomorown = '6289510598381'
-global.namebot = '𝑍𝑒𝑛𝑛𝑆𝑘𝑦-𝐵𝑜𝑡𝑧'
-global.nameown = 'YogzFX'
+global.nomorbot = '6289519894515'
+global.nomorown = '6289504231588'
+global.namebot = 'Haiqyuu MD'
+global.nameown = 'Iqyuu'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6289510598381'],
-  ['6289510598381'],
-  ['6289510598381'],
-  ['6289510598381', 'YogzFX', true]
+  ['6289504231588'],
+  ['6289504231588'],
+  ['6289504231588'],
+  ['6289504231588', 'Iqyuu', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,12 +115,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝑍𝑒𝑛𝑛𝑆𝑘𝑦-𝐵𝑜𝑡𝑧 あ⁩ 」' //Main Watermark
-global.wm2 = '@YogzFX'
-global.wm3 = '⫹⫺ 𝑍𝑒𝑛𝑛𝑆𝑘𝑦-𝐵𝑜𝑡𝑧'
+global.wm = '                「 haiqyuu-𝐵𝑜𝑡𝑧 あ⁩ 」' //Main Watermark
+global.wm2 = '@iqyuu'
+global.wm3 = '⫹⫺ iqyuzzz-𝐵𝑜𝑡𝑧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '🥶 © 𝑍𝑒𝑛𝑛𝑆𝑘𝑦-𝐵𝑜𝑡𝑧 ┊ WhatsApp Botz'
+global.titlebot = '🥶 © haiqyuu - MD ┊ WhatsApp Botz'
 global.author = global.wm
 
 
@@ -173,8 +173,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Created By © 𝑍𝑒𝑛𝑛𝑆𝑘𝑦-𝐵𝑜𝑡𝑧'
-global.stickauth = `@YogzFX`
+global.stickpack = 'Created By © Kvnnmscrsh'
+global.stickauth = `@iqyuu`
 
 global.multiplier = 38 // The higher, The harder levelup
 
